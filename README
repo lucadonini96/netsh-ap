@@ -1,0 +1,13 @@
+NOTE:
+This software allows to create a WiFi network from your own computer through your WiFi board, even while connected to another WiFi (usually)
+
+This software is just a wrapper of the microsoft netsh command-line utility
+It comes with absolutely no warranty
+The code has been built as a Dev-Cpp project
+
+
+EXECUTION:
+Just run ap.exe as an administrator
+To allow Internet access through the created network, go to
+Connection Center on the Control Panel and share the network with 
+Internet access with the created WiFi network.
